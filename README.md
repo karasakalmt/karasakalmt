@@ -5,7 +5,7 @@ I am a junior web developer, and technology enthusiast who likes learning new st
 - 🚗 Intern Software Developer @ GÜNSEL.
 - 📗 Studying Computer Engineering in METU NCC.  
 
-### Reach Me:  
+### Reach Me  
 [![Linkedin Badge](https://img.shields.io/badge/-Mete_Karasakal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mete-karasakal-808449176/) [![Mail Badge](https://img.shields.io/badge/-@karasakalmt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/karasakalmt) [![Mail Badge](https://img.shields.io/badge/-karasakal99-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:karasakal99@gmail.com)
   
   
@@ -33,7 +33,7 @@ I am a junior web developer, and technology enthusiast who likes learning new st
 
 <details>
 <summary>
-  Some statistics about me
+  Some statistics
 </summary>
 
 #### Weekly Development Activity
