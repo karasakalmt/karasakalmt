@@ -10,6 +10,9 @@ I am a junior web developer, and technology enthusiast who likes learning new st
 - 📗 Studying Computer Engineering in METU.
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
