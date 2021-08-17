@@ -28,7 +28,7 @@ I am a junior web developer, and technology enthusiast who likes learning new st
 ### More About Me
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=patern0ster.visitor-badge)
 
 
 <details>
