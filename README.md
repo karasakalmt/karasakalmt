@@ -2,7 +2,6 @@
 
 I am a junior web developer, and technology enthusiast who likes learning new stuff.
   
-- 🚗 Intern Software Developer @ GÜNSEL.
 - 📗 Studying Computer Engineering in METU NCC.  
 
 ### Reach Me  
