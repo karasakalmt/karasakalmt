@@ -21,7 +21,7 @@ I am a junior web developer, and technology enthusiast who likes learning new st
 [![c Badge](https://img.shields.io/badge/-C_Language-61DBFB?style=plastic&labelColor=black&logo=c&logoColor=61DBFB)](#)
 
 ### Business
-- 📎 [My CV/Resume](https://metekarasakal.me)
+- 📎 [My CV/Resume](https://patern0ster.github.io/)
 - 📧 [karasakal99@gmail.com](mailto:karasakal99@gmail.com)
 
 ### More About Me
