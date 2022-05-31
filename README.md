@@ -5,7 +5,9 @@ I am a junior smart contract and web3 developer, and technology enthusiast who l
 - 📗 Studying Computer Engineering in METU NCC.  
 
 ### Reach Me  
-[![Linkedin Badge](https://img.shields.io/badge/-Mete_Karasakal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mete-karasakal-808449176/) [![Mail Badge](https://img.shields.io/badge/-@karasakalmt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/karasakalmt) [![Mail Badge](https://img.shields.io/badge/-karasakal99-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:karasakal99@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Mete_Karasakal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mete-karasakal-808449176/)
+[![Twitter Badge](https://img.shields.io/badge/-karasakalmt-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white)](https://twitter.com/karasakalmt) 
+[![Mail Badge](https://img.shields.io/badge/-karasakal99-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:karasakal99@gmail.com)
   
   
 
