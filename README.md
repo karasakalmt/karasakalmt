@@ -22,7 +22,7 @@ I am a junior smart contract and web3 developer, and technology enthusiast who l
 [![c Badge](https://img.shields.io/badge/-C_Language-61DBFB?style=plastic&labelColor=black&logo=c&logoColor=61DBFB)](#)
 
 ### Business
-- 📎 [My CV/Resume](https://patern0ster.github.io/)
+- 📎 [My CV/Resume](https://karasakalmt.github.io/)
 - 📧 [karasakal99@gmail.com](mailto:karasakal99@gmail.com)
 
 ### More About Me
@@ -45,7 +45,7 @@ No Activity tracked this Week
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=patern0ster&count_private=true&theme=vision-friendly-dark&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patern0ster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=karasakalmt&count_private=true&theme=vision-friendly-dark&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karasakalmt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
