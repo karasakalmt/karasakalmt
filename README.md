@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Mete Karasakal</h1>
+<h1 align="center">Hey 👋 I'm Mete</h1>
 <h3 align="center">Co-founder @ <a href="https://firstpoint.com.tr">First Point</a> | Building <a href="https://vexom.ai">Vexom</a></h3>
 
 ---
